@@ -25,8 +25,8 @@ Queue dan Stack
 ## Latar Belakang
 
 Final project yang kami kerjakan dengan judul “Aplikasi PARKING-ZONE” 
-progam ini dibuat untuk kebutuhan lahan parkir, khususnya di daerah Fakultas Ilmu Komputer yang semakin bertambah seiring dengan banyaknya kendaraan mahasiswa FASILKOM. oleh sebab itu, dibutuhkan solusi yang dapat membantu mahasiswa untuk menentukan tempat parkir dengan cepat, aman, dan nyaman.
-Terkadang kita sedang buru buru untuk mengikuti kelas sehingga tidak mendapatkan parkiran karena banyak kendaraan mahasiswa yang sudah menempati batas parkir kendaraan lain. Salah satu solusi untuk menentukan tempat parkir dengan mudah dalam kondisi ini adalah dengan menggunakan program PARKING-ZONE. Program ini dibuat untuk membantu agar lokasi parkir mahasiswa lebih tertata dan rapi. Sehingga tidak ada kendaraan yang mengambil dua tempat parkir sekaligus dan tersedia lebih banyak lahan parkir untuk diisi motor mahasiswa lain.
+progam ini dibuat bertujuan untuk kebutuhan lahan parkir, khususnya di daerah Fakultas Ilmu Komputer yang semakin bertambah seiring dengan banyaknya kendaraan mahasiswa FASILKOM. oleh sebab itu, dibutuhkan solusi yang dapat membantu mahasiswa untuk menentukan tempat parkir dengan cepat, aman, dan nyaman.
+Terkadang kita sedang buru buru untuk mengikuti kelas sehingga tidak mendapatkan parkiran karena banyak kendaraan mahasiswa yang sudah menempati batas parkir kendaraan lain. Salah satu solusi untuk menentukan tempat parkir dengan mudah dalam kondisi ini adalah dengan hadirnya program PARKING-ZONE. Program ini dibuat untuk membantu agar lokasi parkir mahasiswa lebih tertata dan rapi. Sehingga tidak ada kendaraan yang mengambil dua tempat parkir sekaligus dan tersedia lebih banyak lahan parkir untuk diisi motor mahasiswa lain.
 “Aplikasi PARKING-ZONE “ yang kami buat menginplementasikan tipe Struktur Data Queue dan Stack.
 
 
